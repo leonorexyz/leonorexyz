@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello folks! I'm Leonore 👋
+
+![Avatar](img/avatar.png)
 
 <!--
 **leonorexyz/leonorexyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on LeonoreKingdom
+- 🌱 I’m currently learning ReactJS
